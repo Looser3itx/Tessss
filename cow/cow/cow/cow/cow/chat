@@ -1,0 +1,4 @@
+local Part = Instance.new("UICorner")
+local Part2 = Instance.new("UICorner")
+Part.Parent = game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatChannelParentFrame
+Part2.Parent = game.Players.LocalPlayer.PlayerGui.Chat.Frame.ChatBarParentFrame.Frame
